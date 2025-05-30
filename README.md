@@ -2,7 +2,7 @@
 
 > Created by [Th3Emilis](https://github.com/th3emilis)
 
-<a href="https://curseforge.com/minecraft-bedrock/maps/theoddoneout/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>
+<a href="https://curseforge.com/minecraft-bedrock/maps/theoddoneout/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>  
 <a href="https://mcpedl.com/theoddoneout/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
 
 Inspired by a few maps played by CaptainSparklez, TheOddOneOut is a minigame where your goal is to try and guess the block, item, or entity that doesn’t belong based on properties such as colour, shape, or crafting recipe. There are 30 levels in total, but the number of fails you can get is unlimited. Can you make it to the end with as few fails as possible?
